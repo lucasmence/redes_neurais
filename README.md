@@ -1,5 +1,4 @@
-# redes_neurais v 0.0.1
-
+# redes_neurais ~ algoritmos basicos ~
 Algoritmos basicos para estudo de redes neurais desenvolvidos na faculdade (primeiro semestre de 2018).
 
 Neste repositório contém os seguintes algoritmos:
