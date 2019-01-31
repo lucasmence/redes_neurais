@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/09 20:44:59.000.659,=C:\Users\MENCE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 21:05:44.000.467,D:\Faculdade\9th_termo\redes_neurais\b1_versao2\UfrmMainForm.pas=C:\Users\MENCE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 21:05:44.000.467,D:\Faculdade\9th_termo\redes_neurais\b1_versao2\UfrmMainForm.dfm=C:\Users\MENCE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/04/09 21:05:57.000.114,D:\Faculdade\9th_termo\redes_neurais\b1_versao2\backPropagation.dproj=C:\Users\MENCE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
